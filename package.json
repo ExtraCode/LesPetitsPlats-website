@@ -1,0 +1,23 @@
+{
+  "name": "lespetitsplats-website",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "bootstrap": "^5.1.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JodyGs/LesPetitsPlats-website.git"
+  },
+  "author": "JodyGs",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JodyGs/LesPetitsPlats-website/issues"
+  },
+  "homepage": "https://github.com/JodyGs/LesPetitsPlats-website#readme"
+}
