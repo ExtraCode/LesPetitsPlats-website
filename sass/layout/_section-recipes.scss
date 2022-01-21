@@ -1,0 +1,9 @@
+.section-recipes {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 4em;
+  flex-wrap: wrap;
+  & .card {
+    width: 30%;
+  }
+}
