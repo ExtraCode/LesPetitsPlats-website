@@ -8,6 +8,12 @@ const displayRecipes = () => {
         card.classList.add('card')
         card.classList.add('my-3')
 
+        recipe.ingredients.forEach(function(ingredient){
+
+            console.log(ingredient);
+
+        })
+
         const cardContent = `
                 <img src="./assets/img/img-card.png" alt="recipes" class="card-img-top">
                 <div class="card-body bg-light">
